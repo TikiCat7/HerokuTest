@@ -2,6 +2,10 @@
   "name": "herokutest",
   "version": "1.0.0",
   "description": "testing heroku deploy",
+  "engines": {
+    "node": "4.2.4",
+    "npm": "2.14.12"
+  },
   "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
